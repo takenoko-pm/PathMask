@@ -1,18 +1,17 @@
 # PathMask CLI
 
 コピーしたパスのユーザー名を匿名化してクリップボードに戻す小さな CLI ツールです。
-LLMなどにコマンドの結果などを渡すときにご使用ください
----
+LLMなどにコマンドの結果などを渡すときにご使用ください。
 
 ## ダウンロード
+右上のcodeボタンをクリックしDownload ZIPを選択してください。
+ダウンロードされたもののうち、以下のものを使用します。
 
 - Windows 64bit: `release/pathmask-win-amd64.zip`
 - Linux 64bit: `release/pathmask-linux-amd64.zip`
 - Mac 64bit: `release/pathmask-mac-amd64.zip` または `release/pathmask-mac-arm64.zip`
 
 ※ Linux は xclip または xsel が必要です
-
----
 
 ## 使い方
 
